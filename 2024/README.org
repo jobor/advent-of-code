@@ -1,0 +1,8 @@
+* Advent of Code 2024
+
+This year, the language of choice is Emacs Lisp.
+
+Run the programs like this:
+#+begin_src bash
+  emacs --script aoc-24-01-1.el input-1.txt
+#+end_src
