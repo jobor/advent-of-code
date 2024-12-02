@@ -1,0 +1,6 @@
+* Advent of Code
+
+This repository contains my solutions for Advent of Code riddles,
+grouped by year. See the READMEs in the subdirectories for how to
+build and run.
+
